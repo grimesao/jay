@@ -1,0 +1,28 @@
+
+
+body{
+
+background-image: url("/static/img/7.jpg");
+ width:100%;
+ background-position:center 0;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+-webkit-backdrop-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+-ms-background-size:cover;
+
+ z-index:-1;
+
+}
+
+#h1{
+   color:cornflowerblue
+}
+#p1{
+    color:darkgoldenrod
+}
+#introduce{
+    
+}
